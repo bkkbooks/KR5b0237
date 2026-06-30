@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0237/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0237/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶中元地官消愆滅罪懺
+  date: '2015-08-29 00:14:37.768979'
+  source:
+    repository: kanripo
+    path: KR5b0237
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0237_000-ZTDZ.yaml, hash: 'sha256:3b59c9cf56c91b0ae83186fb4b7069cc1115e0c682810dc9aa59233d160926cf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0237_000-ZTDZ.markers.yaml, hash: 'sha256:ef8938e669a631127d25c1b9165ed8f8678f4c8ecff4f3dbc40f083c1dada772'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0237_SJB_000-090878c
+    span:
+    - body
+    - 0
+    - 1495
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:8bc2835702f781a19f91d81bc5fc8d4c62cbaa6b6371daec796c92f9b00ef621

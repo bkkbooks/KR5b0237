@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0237/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0237/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶中元地官消愆滅罪懺
+  date: '2015-08-29 00:14:37.768979'
+  source:
+    repository: kanripo
+    path: KR5b0237
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0237_000-HFL.yaml, hash: 'sha256:907cf8e9beae05c144cfecabbe3ee984849e81216f6ed66d4e7d9cf6635cedea'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0237_000-HFL.markers.yaml, hash: 'sha256:4112615579d4bcc510077479ae1006af110346b2ad5ac6ca80795678ff309d14'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0237_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 1495
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ddd1738d766e54f9735433a468eb9e9a957523f48c6db147c4a93fa70496706e
